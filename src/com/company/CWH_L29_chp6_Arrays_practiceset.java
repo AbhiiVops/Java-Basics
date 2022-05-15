@@ -7,13 +7,13 @@ public class CWH_L29_chp6_Arrays_practiceset {
 
                      // Question 1:
        // System.out.println("Printing using for loop");
-//         float sum =0;
-//        float cat[] = {52.5f,85.2f,56.2f,36.4f,79.2f};
-//      for(int i=0;i<=cat.length-1;i++) {
-//       sum = sum + cat[i];
-//
-//      }
-//        System.out.println(sum);
+        float sum =0;
+       float cat[] = {52.5f,85.2f,56.2f,36.4f,79.2f};
+     for(int i=0;i<=cat.length-1;i++) {
+      sum = sum + cat[i];
+
+     }
+       System.out.println(sum);
 
         // QUESTION 2:
      /*
